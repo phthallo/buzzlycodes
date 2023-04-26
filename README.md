@@ -1,5 +1,5 @@
 # buzzlycodes
-A set of various F2U custom widget profile codes optimised for the site Buzzly.art, written in TailwindCSS. These were written late 2021/early 2022.
+A set of various F2U custom widget profile codes optimised for the site [Buzzly.art](https://buzzly.art/), written in TailwindCSS. These were written late 2021/early 2022.
 
 # Previews
 The codes can be previewed by using the [Tailwind playground](https://play.tailwindcss.com/), however, icons are not rendered properly. Images of the codes are included below. 
